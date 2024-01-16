@@ -36,4 +36,4 @@ Follow these steps to set up and run the project locally.
   Feel free to contribute to this project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated.
 
 ## License
-  This project is licensed under the MIT License - see the LICENSE file for details.
+  This project is licensed under the MIT License - see the [LICENSE](https://github.com/LeonardoMoura04/DotNetCoreBestPracticesTemplate/blob/main/LICENSE "Check the LICENSE") file for details.
