@@ -25,7 +25,6 @@ Follow these steps to set up and run the project locally.
    Build and run the project using the IDE or the following commands:
    
    ```bash
-   cd src/DotNetCoreBestPracticesExample.Web
    dotnet run
 
   The application will be available at https://localhost:5001.
