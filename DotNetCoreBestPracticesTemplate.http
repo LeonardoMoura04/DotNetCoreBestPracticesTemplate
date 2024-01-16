@@ -1,0 +1,6 @@
+@DotNetCoreBestPracticesTemplate_HostAddress = http://localhost:5049
+
+GET {{DotNetCoreBestPracticesTemplate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
